@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=babdelka)](https://github.com/AbdouBouallaga)
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=babdelka)](mailto:babdelka@student.1337.ma)
 
 <!--
 **AbdouBouallaga/AbdouBouallaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
