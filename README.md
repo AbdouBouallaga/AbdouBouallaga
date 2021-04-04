@@ -1,4 +1,5 @@
-### Hi there 👋
+Hi there 👋 I'm Abdelkader Bouallaga<br>
+Software Engineering Student @ 1337, (42 Network).
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=babdelka)](mailto:babdelka@student.1337.ma)
 
