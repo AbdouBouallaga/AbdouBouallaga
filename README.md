@@ -1,5 +1,6 @@
 Hi👋 I'm Abdelkader Bouallaga.<br>
-Software Engineering Student @ 1337, (42 Network).
+Computer Architect, 1337 (42 Network) Alumni.
+Specialised in Devops.
 
 <a href=""><img src="https://badge.mediaplus.ma/kettlebells/babdelka" alt="babdelka's 42 stats" /></a>
 <!-- [![42 Profile Card](https://badge42.herokuapp.com/api/stats/babdelka?darkmode=true)](https://github.com/AbdouBouallaga)<br> -->
