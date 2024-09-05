@@ -1,5 +1,5 @@
 Hi👋 I'm Abdelkader Bouallaga.<br>
-Computer Architect, 1337 (42 Network) Alumni.
+Computer Architect, 1337 (42 Network) Alumni.<br>
 Specialised in Devops.
 
 <a href=""><img src="https://badge.mediaplus.ma/kettlebells/babdelka" alt="babdelka's 42 stats" /></a>
